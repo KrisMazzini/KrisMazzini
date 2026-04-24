@@ -23,6 +23,6 @@ Arch       Clean Architecture · DDD · Repository Pattern · Event-Driven
 ### A bit more
  
 - 🏗️ Led 6 client projects and mentored 17 engineers as a tech lead
-- 🌍 Exchange student in Poland — studied and worked entirely in English
+- 🌍 Exchange student in Poland — studied entirely in English
 - 📚 Recorded 130+ lessons (40h of content) as a web dev instructor at Voitto
 - 🎓 B.S. Electrical Engineering (Robotics & Automation), UFJF
